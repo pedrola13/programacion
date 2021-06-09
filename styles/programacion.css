@@ -1,0 +1,73 @@
+body{
+    
+    background-image: url(../src/img/Fond.png);
+    background-size: 1500px;
+
+     }
+    
+
+h1{
+    position: relative;
+    text-align-last: center;
+    right: 500px;
+    left: 400px;
+    height: 60px;
+    width: 800px; 
+    background-color: rgb(19, 130, 204);
+    border-radius: 10px;
+     border-style: outset;
+   
+    
+   
+     
+ 
+   
+    
+}
+
+button{
+    margin: 25px;
+    border-radius: 20px;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    left: 550px;
+    width: 400px;
+    height: 100px;
+    background-color: steelblue;
+    
+}
+
+a {
+    position: center;
+    left: 300px;
+    background-image: url(/src/img/Fond.png);
+    background-size: 1000px;
+    background-position-x: center;
+   
+    
+    }
+    button#2 {
+        color: rgb(181, 200, 207);
+    border-radius: 20px;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    width: 800px;
+    height: 100px;
+    background-color: steelblue;
+
+    }
+    
+
+
+
+    
+
+
+
+
+    
+   
+
+

@@ -1,0 +1,49 @@
+
+
+body{
+    
+    background-image: url(/papeles/src/img/Fond.png);
+    background-size: 2000px;
+
+
+ }
+ 
+ 
+button#enviar{
+    background-color: mediumaquamarine;
+    color: rgb(21, 27, 34);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50px;
+    font-family: monospace;
+
+    
+    
+}
+
+div#Contenedor{
+    position: relative;
+    width: 250px;
+    background-color: mediumaquamarine;
+    border: 10px;
+    border-radius: 10px;
+    position: relative;
+    left: 500px;
+    right: 300px;
+    padding: 5px;
+    margin: 5px;
+    top: 100px;
+}
+
+div#Titulo{
+    margin: 5px;
+    padding: 5px;
+    position: relative;
+    left: 500px;
+    border-color: mediumorchid;
+    border-radius: 10px;
+    background-color: mediumaquamarine;
+    width: 150px;
+   
+    
+}

@@ -1,0 +1,16 @@
+body {
+background-image: url(/cd/src/img/Fond.png);
+background-size: 1500px;
+}
+
+h1{
+    position: relative;
+    text-align-last: center;
+    right: 500px;
+    left: 650px;
+    height: 45px;
+    width: 150px; 
+    background-color: rgb(19, 130, 204);
+    border-radius: 10px;
+     border-style: outset;
+}
